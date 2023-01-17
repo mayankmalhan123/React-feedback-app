@@ -19,13 +19,6 @@ This project goes over all of the fundamentals of React including...
 
 ### Bug Fixes, corrections and code FAQ
 
-The repository code here on the main branch has been updated due to bugs and issues found by students since the course was released.
-If you are looking for exact code from the course then please check out the [originalcoursecode branch](https://github.com/bradtraversy/feedback-app/tree/originalcoursecode) of this repository.
-
-The updates here aim to be a reference and resource for common questions asked
-by students in the Udemy Q&A and for those wishing to make corrections to the
-project.
-
 #### Q: Why are we spreading data and item?
 
 Before implementing json-server, when we updated feedback we didn't have feedback
